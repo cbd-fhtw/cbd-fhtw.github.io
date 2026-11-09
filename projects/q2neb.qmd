@@ -2,10 +2,9 @@
 title: "Q2NEB"
 description: "Quartiere nach den Werten des New European Bauhaus weiterentwickeln."
 categories: ["Lehre & Transfer"]
-image: "/assets/projects/folie-38.jpg"
-image-alt: "Abbildung aus dem Projektposter Q2NEB"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "38"
+image: "/assets/projects/q2neb.jpg"
+image-alt: "Q2NEB – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "38"
 Das Qualifizierungsnetzwerk verbindet Nachhaltigkeit, Integration und Ästhetik. Workshops zu Bewertungstools, Quartiersexkursionen und ein NEBathon fördern die Zusammenarbeit über Disziplinen und Sektoren hinweg.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 38. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-38.jpg)
+![Q2NEB](/assets/projects/q2neb.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster beschreibt abgeschlossene Grundlagen- und Spezialisierungsschulungen. Weitere Lehrmaterialien und ein frei zugänglicher Online-Kurs sind als Transfer vorgesehen.
+Grundlagen- und Spezialisierungsschulungen vermitteln die gemeinsame Methodenbasis. Weitere Lehrmaterialien und ein frei zugänglicher Online-Kurs sind für den Wissenstransfer vorgesehen.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 24 Monate: 4/2025 – 3/2027 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Elisabeth Kerschbaum, Msc, kerschbe@technikum-wien.at |
-| Beteiligte Organisationseinheiten | CFBD & RES |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 38. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

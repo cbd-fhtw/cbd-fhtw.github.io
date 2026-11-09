@@ -2,10 +2,9 @@
 title: "TimberBioC"
 description: "Biogener Kohlenstoff in Holzprodukten: Klimawirkungen dynamisch bewerten."
 categories: ["Lebenszyklus"]
-image: "/assets/projects/folie-37.jpg"
-image-alt: "Abbildung aus dem Projektposter TimberBioC"
-project-status: "Abgeschlossen (laut Poster)"
-source-slides: "37"
+image: "/assets/projects/timberbioc.jpg"
+image-alt: "TimberBioC – Projektübersicht"
+project-status: "Abgeschlossen"
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "37"
 Dynamische Modelle verbinden Forstwirtschaft, Produktlebensdauer und Nachnutzung langlebiger Holzbauprodukte. Die zeitliche Speicherung von Kohlenstoff wird für ökologische Bewertungen untersucht.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 37. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-37.jpg)
+![TimberBioC](/assets/projects/timberbioc.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster bezeichnet das Projekt als abgeschlossen und berichtet über eine entwickelte Systematik sowie die Integration in Lehre und Bewertungsstandards.
+Im abgeschlossenen Projekt wurde eine Systematik zur dynamischen Bewertung entwickelt und in Lehre und Bewertungsstandards integriert.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 07/2022 – 06/2024 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | DI Thomas Zelger |
-| Beteiligte Organisationseinheiten | CBD |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 37. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

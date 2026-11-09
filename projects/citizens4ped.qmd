@@ -2,10 +2,9 @@
 title: "Citizens4PED"
 description: "Bürgerorientierte Plusenergiequartiere im bestehenden Stadtraum."
 categories: ["Quartiere"]
-image: "/assets/projects/folie-5.jpg"
-image-alt: "Abbildung aus dem Projektposter Citizens4PED"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "5"
+image: "/assets/projects/citizens4ped.jpg"
+image-alt: "Citizens4PED – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "5"
 Vier Living Labs verbinden technoökonomische Simulationen mit Beteiligung und gemeinsamer Gestaltung. Neben Effizienz und erneuerbaren Energien berücksichtigt das Projekt Suffizienz, Bezahlbarkeit und lokale Rahmenbedingungen.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 5. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-5.jpg)
+![Citizens4PED](/assets/projects/citizens4ped.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster nennt Szenariobibliotheken, vier PED-Aktionspläne und Leitlinien sowie einen Vorschlag für eine CEN-Workshop-Vereinbarung.
+Zu den Ergebnissen gehören Szenariobibliotheken, vier PED-Aktionspläne und Leitlinien sowie ein Vorschlag für eine CEN-Workshop-Vereinbarung.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | November 2022 - Oktober 2025 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Simon Schneider |
-| Beteiligte Organisationseinheiten | KFCBD, KFRET |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 5. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

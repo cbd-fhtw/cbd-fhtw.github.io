@@ -24,7 +24,7 @@ Wir erforschen, wie Gebäude und Stadtquartiere klimafit werden: mit dynamischen
 [Unser Teamprofil](about.qmd){.btn .btn-outline-primary}
 :::
 ::: {}
-![Quartiersentwicklung im Zusammenspiel von Gebäuden, Energie und Nutzung. Illustration aus der bereitgestellten Teamdarstellung.](assets/hero.jpg)
+![Quartiersentwicklung im Zusammenspiel von Gebäuden, Energie und Nutzung.](assets/hero.jpg)
 :::
 :::
 
@@ -58,12 +58,8 @@ Energie, Mobilität und graue Energie gemeinsam betrachten. Maßnahmen bewerten 
 Unsere gemeinsame Methodenbasis umfasst Simulation, Monitoring, Datenanalyse, Lebenszyklusbetrachtung sowie Beteiligungsprozesse. Welche Methoden in einem Projekt eingesetzt werden, zeigen die jeweiligen Projektseiten.
 
 ::: {.section-note}
-**Wissen gemeinsam dokumentieren**\
-Diese Plattform verbindet Projektübersichten mit einer wachsenden Sammlung kurzer Methoden- und Anwendungsbeispiele. Inhalte werden als Textdateien gepflegt und Änderungen gemeinsam nachvollzogen.
+**Forschung greifbar machen**\
+Entdecken Sie Projekte, Methoden und Anwendungsfelder für klimafitte Gebäude und Quartiere. Kurze Beispiele zeigen, welche Fragen unsere Forschung verbindet.
 
 [Zu den Kurzbeispielen →](examples.qmd)
-:::
-
-::: {.source-note}
-Inhaltliche Grundlage: bereitgestellte Teamdarstellung „klimsta.svg“, Projektposter sowie fachliche Themen der Strategieentwicklung 2025. Weitere Angaben und Ergebnisnachweise werden schrittweise ergänzt.
 :::

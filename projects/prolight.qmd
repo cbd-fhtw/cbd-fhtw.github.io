@@ -2,10 +2,9 @@
 title: "ProLight"
 description: "Bezahlbares Wohnen, Energieeffizienz und Beteiligung in europäischen Demonstrationsquartieren."
 categories: ["Quartiere"]
-image: "/assets/projects/folie-29.jpg"
-image-alt: "Abbildung aus dem Projektposter ProLight"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "29"
+image: "/assets/projects/prolight.jpg"
+image-alt: "ProLight – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "29"
 Sechs Demonstrationsstandorte und Energiegemeinschaften dienen als Ausgangspunkt für technologische, soziale und marktbezogene Lösungen. Energiearmut und die Herausforderungen des sozialen Wohnungsbaus stehen im Fokus.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 29. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-29.jpg)
+![ProLight](/assets/projects/prolight.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster verweist auf eine Wissensplattform mit Berichten und Leitfäden sowie eine App zur Erfassung und Verwaltung von Energiedaten.
+Eine Wissensplattform mit Berichten und Leitfäden sowie eine App zur Erfassung und Verwaltung von Energiedaten unterstützen den Wissenstransfer.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 01.10.22- 30.09.26 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | FH-Prof. Momir Tabakovic, momir.tabakovic@technikum-wien.at |
-| Beteiligte Organisationseinheiten | Climate-Fit Buildings and Districts |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 29. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

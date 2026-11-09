@@ -2,10 +2,9 @@
 title: "KI4HVACS"
 description: "Prädiktive Algorithmen und maschinelles Lernen für effiziente Heizungs-, Lüftungs- und Klimasysteme."
 categories: ["Energieflexibilität"]
-image: "/assets/projects/folie-21.jpg"
-image-alt: "Abbildung aus dem Projektposter KI4HVACS"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "21"
+image: "/assets/projects/ki4hvacs.jpg"
+image-alt: "KI4HVACS – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "21"
 Im Fokus stehen Predictive Maintenance für Lüftungsanlagen, Simulation, Sensorik und Monitoring im Realbetrieb. Lebenszyklusanalysen und Lebenszykluskosten ergänzen die technische Optimierung.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 21. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-21.jpg)
+![KI4HVACS](/assets/projects/ki4hvacs.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster berichtet von fünf implementierten Regellogiken in der Simulation und untersucht den Zielkonflikt zwischen Komfort und Energieeinsparung.
+Fünf Regellogiken wurden in der Simulation implementiert. Untersucht wird der Zielkonflikt zwischen Komfort und Energieeinsparung.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 36 Monate |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | DI David Sengl, David.sengl@technikum-wien.at |
-| Beteiligte Organisationseinheiten | Climate-fit Buildings and Districts |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 21. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

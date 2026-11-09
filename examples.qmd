@@ -1,15 +1,23 @@
 ---
 title: Kurzbeispiele
-description: "Raum für nachvollziehbare Methoden und kleine Anwendungen aus der Forschung."
+description: "Drei Einblicke in Fragestellungen unserer Forschung."
 toc: false
 ---
 
-## Methoden nachvollziehbar machen
+## Wärme speichern, Energie flexibel nutzen
 
-Hier entsteht eine Sammlung kompakter Beispiele: eine Fragestellung, ein reproduzierbarer Weg und ein klar eingeordnetes Ergebnis.
+Die Speichermasse eines Gebäudes kann Wärme aufnehmen und zeitversetzt wieder abgeben. Dynamische Modelle helfen zu untersuchen, wie sich Heiz- und Kühlzeiten verschieben lassen und welche Rolle der thermische Komfort dabei spielt.
 
-**Noch sind keine fachlich geprüften Kurzbeispiele veröffentlicht.** Die Vorlage in `examples/_template.qmd` bereitet die gemeinsame Beitragserstellung vor.
+[Mehr zu EnerFlexBuildings →](projects/enerflexbuildings.qmd)
 
-Mögliche Beiträge können an die dokumentierten Arbeiten anknüpfen: dynamische Gebäudemodelle, Quartiersbewertung oder Auswertung von Monitoringdaten. Diese Themen sind Vorschläge für künftige Beiträge, keine vorliegenden Ergebnisse.
+## Sanierungsmaßnahmen gemeinsam betrachten
 
-[Die dazugehörigen Forschungsprojekte ansehen →](projects.qmd)
+Gebäudehülle, Wärmeversorgung und Nutzung beeinflussen sich gegenseitig. Die Untersuchung von Sanierungspaketen verbindet technische Maßnahmen mit Kosten, Umweltwirkungen und den Bedürfnissen der Bewohner:innen.
+
+[Mehr zu LehB:Klimafit! →](projects/lehb-klimafit.qmd)
+
+## Klimawirkungen über die Zeit bewerten
+
+Holzprodukte speichern Kohlenstoff während ihrer Nutzung. Dynamische Lebenszyklusmodelle betrachten, wie Nutzungsdauer, Wiederverwendung und das Ende des Produktlebens die Klimawirkung beeinflussen.
+
+[Mehr zu TimberBioC →](projects/timberbioc.qmd)

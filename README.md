@@ -2,7 +2,7 @@
 
 ## CBD Forschungswebsite
 
-Deutschsprachiger Quarto-Prototyp für Climate-fit Buildings and Districts an der FH Technikum Wien. 21 Projektseiten, automatische Projektkarten mit Suchfeld und Kategorien, Volltextsuche sowie eine Vorlage für Kurzbeispiele. Keine Datenbank, kein CMS und kein Backend erforderlich.
+Deutschsprachiger Quarto-Showcase für Climate-fit Buildings and Districts an der FH Technikum Wien. 21 Projektseiten, automatische Projektkarten mit Suchfeld und Kategorien, Volltextsuche sowie eine Vorlage für Kurzbeispiele. Keine Datenbank, kein CMS und kein Backend erforderlich.
 
 ### Lokal starten
 
@@ -23,8 +23,8 @@ Die Ausgabe liegt in `_site/` und wird nicht eingecheckt. Der Check prüft inter
 
 ### GitHub Pages
 
-Remote: `https://github.com/cbd-fhtw/cbd-fhtw.git`.
-Daraus abgeleitete Standardadresse: **https://cbd-fhtw.github.io/cbd-fhtw/**. Eine eventuell bereits konfigurierte Custom Domain wurde nicht vorausgesetzt. Die Veröffentlichung ist noch nicht ausgeführt.
+Remote: `https://github.com/cbd-fhtw/cbd-fhtw.github.io.git`.
+Daraus abgeleitete Standardadresse: **https://cbd-fhtw.github.io/**. Eine eventuell bereits konfigurierte Custom Domain wurde nicht vorausgesetzt. Die Website wird über GitHub Actions veröffentlicht.
 
 Einziger Veröffentlichungsweg: **GitHub Actions → Pages-Artefakt → Pages-Deployment**. Kein `gh-pages`-Branch, kein `/docs`-Ordner und kein lokales `quarto publish` erforderlich.
 
@@ -34,7 +34,6 @@ Einziger Veröffentlichungsweg: **GitHub Actions → Pages-Artefakt → Pages-De
 4. Nach inhaltlicher Prüfung nach `main` pushen. `.github/workflows/publish.yml` rendert mit den offiziellen Quarto-Actions, prüft interne Links und veröffentlicht `_site`. Alternativ den Workflow manuell über **Actions → Run workflow** starten.
 5. Die tatsächliche Deployment-Adresse und den Erfolg im Actions-Lauf prüfen. Bei Repository-Umbenennung oder Custom Domain `website.site-url` in `_quarto.yml` und `BASE` in `scripts/check_site.py` aktualisieren.
 
-Technische Referenzen: [Quarto Actions](https://github.com/quarto-dev/quarto-actions), [GitHub Pages mit eigenem Workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
 ### Inhalte ergänzen
 
@@ -56,28 +55,19 @@ Kurzbeispiele beginnen mit einer Kopie von `examples/_template.qmd`. Details und
 - `_quarto.yml`, `styles.scss`: Aufbau und Gestaltung.
 - `index.qmd`, `projects.qmd`, `examples.qmd`, `about.qmd`: Hauptseiten.
 - `projects/`: eine QMD-Datei pro Projekt.
-- `assets/`: Teamdarstellung, Teamsymbol und aus den Postern extrahierte Abbildungen.
+- `assets/`: Teamsymbol, Illustrationen und Projektabbildungen.
 - `templates/`, `examples/_template.qmd`: Beitragsschablonen, nicht öffentlich gerendert.
-- `docs/source-audit.md`: nachvollziehbare Auswahl aller 46 Folien.
 - `scripts/check_site.py`: Linkprüfung lokal und in CI.
 
 Die einheitlichen Metadaten und getrennten Medien ermöglichen einen späteren grafischen Editor. Nextcloud, Datenkatalog, Benutzerverwaltung, KI-Konvertierung und Serverinfrastruktur sind nicht implementiert.
-
-### Quellenstand und offene Redaktion
-
-Grundlagen sind die bereitgestellte Projektpräsentation, `klimsta.svg` und die fachlichen Entwicklungsfelder der Strategiepräsentation 2025. Die PowerPoint-Originale, Extraktionsdateien und interne Strategieinhalte bleiben in der ignorierten lokalen Arbeitsablage `.local-sources/` und werden nicht veröffentlicht. `assets/klimsta.svg` wird unverändert als englischsprachige Originalquelle bereitgestellt; die Website-Texte sind deutsch.
-
-„KFZBD“ aus dem Auftrag wird anhand der Quellen als KFCBD/CBD bzw. Climate-fit Buildings and Districts interpretiert. Die Schreibweise CFBD wird dort einbezogen, wo zusätzlich der ausgeschriebene CBD-Schwerpunkt genannt ist. SIMPLY POSITIVE erscheint auf zwei Folien und erhält eine gemeinsame Seite. Alliiertenviertel stammt aus der Teamdarstellung.
-
-TODO vor einer offiziellen Veröffentlichung: Projektstatus und Ergebnislinks bestätigen, Bildurheber und Nutzungsrechte vervollständigen, Teamkontakt sowie Impressum-/Datenschutzangaben ergänzen. Wiederholte Förderbanner aus der Postervorlage werden nicht als projektspezifische Fakten übernommen. Abbildungen und Logos sind nicht pauschal unter eine neue Lizenz gestellt.
 
 ### Commit vorbereiten
 
 Nach Prüfung der Änderungen:
 
 ```powershell
-git add README.md CONTRIBUTING.md .gitignore _quarto.yml styles.scss index.qmd projects.qmd examples.qmd about.qmd projects examples templates assets docs scripts .github/workflows/publish.yml
+git add README.md CONTRIBUTING.md .gitignore _quarto.yml styles.scss index.qmd projects.qmd examples.qmd about.qmd projects examples templates assets scripts .github/workflows/publish.yml
 git commit -m "feat: add German CBD research website with 21 project profiles"
 ```
 
-Es wurde nicht gepusht. Die lokale Quellablage und der Build sind durch `.gitignore` ausgeschlossen.
+Die lokale Quellablage und der Build sind durch `.gitignore` ausgeschlossen.

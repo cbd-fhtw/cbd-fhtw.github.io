@@ -2,10 +2,9 @@
 title: "SIMPLY POSITIVE"
 description: "Strategien und Leitlinien für Plusenergiequartiere in Städten und Gemeinden."
 categories: ["Quartiere"]
-image: "/assets/projects/folie-32.jpg"
-image-alt: "Abbildung aus dem Projektposter SIMPLY POSITIVE"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "32 und 33"
+image: "/assets/projects/simply-positive.jpg"
+image-alt: "SIMPLY POSITIVE – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "32 und 33"
 Ein gemeinsamer PED-Rahmen verbindet Energiebilanzen, Monitoring und Beteiligung. Vier Schwerpunktbezirke in Österreich, Rumänien, Italien und den Niederlanden untersuchen unter anderem Photovoltaik, Elektromobilität und Effizienz.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 32 und 33. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-32.jpg)
+![SIMPLY POSITIVE](/assets/projects/simply-positive.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Die Poster berichten über erprobte Strategien, Methoden zur Überwachung und Visualisierung sowie Beteiligungskonzepte. Die zwei Poster werden hier als ein Projekt zusammengeführt.
+Erprobte Strategien, Methoden zur Überwachung und Visualisierung sowie Beteiligungskonzepte unterstützen die Übertragbarkeit auf weitere Städte und Gemeinden.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 01/ 2023 – 12/2024 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Simon Schneider |
-| Beteiligte Organisationseinheiten | KFCBD, KFRES, KFRET |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 32 und 33. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

@@ -2,10 +2,9 @@
 title: "KlimSta"
 description: "Klimafitte Stadtsanierung als praxisnahe, interdisziplinäre Lehre."
 categories: ["Lehre & Transfer"]
-image: "/assets/projects/folie-24.jpg"
-image-alt: "Abbildung aus dem Projektposter KlimSta"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "24"
+image: "/assets/projects/klimsta.jpg"
+image-alt: "KlimSta – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "24"
 Studierende analysieren und simulieren Bestandsquartiere als urbane Systeme. Das Kompetenzteam verbindet technische, räumliche, soziale und wirtschaftliche Perspektiven auf die Sanierung.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 24. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-24.jpg)
+![KlimSta](/assets/projects/klimsta.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster nennt weiterentwickelte Lehrveranstaltungen, PEExcel zur Quartiersanalyse und die Lernspiele „The Renovation Game“ und „PassyBUIRD“.
+Weiterentwickelte Lehrveranstaltungen, PEExcel zur Quartiersanalyse und die Lernspiele „The Renovation Game“ und „PassyBUIRD“ machen die Forschung in der Lehre zugänglich.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 3/2024- 8/2026 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Simon Schneider (simon.schneider@technikum-wien.at) |
-| Beteiligte Organisationseinheiten | FIE, FEE; CBD-Zuordnung über den ausgeschriebenen F&E-Schwerpunkt |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 24. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

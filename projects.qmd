@@ -14,8 +14,4 @@ listing:
   page-size: 24
 ---
 
-Sanierung, Energieflexibilität, Quartiersentwicklung und Wissenstransfer: **21 Projektseiten** erschließen die bereitgestellten Unterlagen. Über die Kategorien und das Suchfeld lässt sich die Auswahl eingrenzen.
-
-::: {.source-note}
-Auswahl nach CBD-Teamzuordnung in den Projektpostern; ergänzt um Alliiertenviertel aus der Teamdarstellung. Die Seiten dokumentieren den Quellenstand, keine aktuelle Projektbestätigung.
-:::
+Sanierung, Energieflexibilität, Quartiersentwicklung und Wissenstransfer: Entdecken Sie unsere Projekte und ihre Fragestellungen. Über die Kategorien und das Suchfeld lässt sich die Auswahl eingrenzen.

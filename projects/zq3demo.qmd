@@ -2,10 +2,9 @@
 title: "ZQ3Demo"
 description: "Urbane Zukunftsquartiere mit Akteursvernetzung und übertragbaren Lösungen umsetzen."
 categories: ["Quartiere"]
-image: "/assets/projects/folie-43.jpg"
-image-alt: "Abbildung aus dem Projektposter ZQ3Demo"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "43"
+image: "/assets/projects/zq3demo.jpg"
+image-alt: "ZQ3Demo – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "43"
 Demonstrationsquartiere verbinden technische Systemlösungen mit Monitoring, Nutzer:innenbedürfnissen und rechtlichökonomischen Rahmenbedingungen. Ziel ist die Übertragbarkeit von Plusenergiequartieren.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 43. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-43.jpg)
+![ZQ3Demo](/assets/projects/zq3demo.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster beschreibt eine abschließende Phase mit Datenauswertung, Berichterstattung und Transfer in Lehre und Publikationen. Ein aktueller Abschlussnachweis ist zu ergänzen.
+Datenauswertung, Berichterstattung und der Transfer in Lehre und Publikationen bündeln die Erkenntnisse aus den Demonstrationsquartieren.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 09/2021 – 06/2026 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Thomas Zelger |
-| Beteiligte Organisationseinheiten | KFCBD, KFRES |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 43. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

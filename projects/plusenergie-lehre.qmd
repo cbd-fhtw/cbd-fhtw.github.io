@@ -2,10 +2,9 @@
 title: "Plus-Energie-Quartiere in der Lehre"
 description: "Entwicklungs- und Erneuerungsprinzipien für ein neues Wahlfach in der Slowakei."
 categories: ["Lehre & Transfer"]
-image: "/assets/projects/folie-28.jpg"
-image-alt: "Abbildung aus dem Projektposter Plus-Energie-Quartiere in der Lehre"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "28"
+image: "/assets/projects/plusenergie-lehre.jpg"
+image-alt: "Plus-Energie-Quartiere in der Lehre – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "28"
 Das Projekt entwickelt und erprobt ein Wahlfach an der STU Bratislava. Lehrmaterialien, ein PED-Bewertungstool, Entwurfsübungen und Exkursionen verbinden Theorie und Quartiersplanung.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 28. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-28.jpg)
+![Plus-Energie-Quartiere in der Lehre](/assets/projects/plusenergie-lehre.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
-Das Poster dokumentiert zwei Lehrdurchgänge, ein zweisprachiges Skriptum, Vorträge, Lehrvideos und ein Berechnungstool für Architekturstudierende.
+Zwei Lehrdurchgänge, ein zweisprachiges Skriptum, Vorträge, Lehrvideos und ein Berechnungstool unterstützen Architekturstudierende bei der Quartiersplanung.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | Dezember 2022 bis August 2024 |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | simon.schneider@technikum-wien.at |
-| Beteiligte Organisationseinheiten | CBD |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 28. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

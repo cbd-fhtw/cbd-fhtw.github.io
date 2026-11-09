@@ -3,9 +3,8 @@ title: "Building4GridRes"
 description: "Netzdienliche Flexibilität von Gebäuden und Quartieren für resiliente urbane Stromnetze."
 categories: ["Energieflexibilität"]
 image: "/assets/cbd.png"
-image-alt: "CBD-Teamsymbol; kein Projektbild"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "3"
+image-alt: "Building4GridRes – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "3"
 Bewertungsmodelle verbinden technische, systemische, sozialökologische und ökonomische Kriterien. Verteilnetzsimulationen, Speicherstrategien und Reinforcement Learning sollen helfen, Flexibilitätsentscheidungen unter Netzrestriktionen zu optimieren.
 
 ::: {.project-figure}
-![CBD-Teamsymbol als Platzhalter. TODO: Projektbild ergänzen.](/assets/cbd.png)
+![Building4GridRes](/assets/cbd.png)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
 Erwartet werden ein multiskaliges Bewertungsmodell, Indikatoren und Leitlinien für resiliente urbane Netze.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 06/2026 – 05/2029 (36 Monate) |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Manfred Schindler |
-| Beteiligte Organisationseinheiten | KFCBD, KFRES, KFRET |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 3. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

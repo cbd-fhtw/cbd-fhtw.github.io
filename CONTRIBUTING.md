@@ -6,8 +6,8 @@ Die Website wird auf Deutsch gepflegt. Eine QMD-Datei enthält YAML-Metadaten un
 
 1. `templates/project.qmd` nach `projects/mein-projekt.qmd` kopieren. Dateinamen klein, mit Bindestrichen und ohne Leerzeichen wählen.
 2. Titel, Kurzbeschreibung, Kategorien, Bild, Alternativtext und Projektstatus ausfüllen. Vorhandene Kategorien bevorzugen: Quartiere, Sanierung, Energieflexibilität, Lebenszyklus, Lehre & Transfer.
-3. Bilder unter `assets/projects/` ablegen. Bildquelle, Urheber und Nutzungsrecht dokumentieren. Keine Originalpräsentationen oder personenbezogenen internen Unterlagen einchecken.
-4. Ziele, Vorgehen, Ergebnisse und Quellen ergänzen. Erwartete Ergebnisse ausdrücklich als solche benennen. Fehlende Angaben mit `TODO` markieren; Abschluss nicht allein aus einer vergangenen Laufzeit ableiten.
+3. Bilder unter `assets/projects/` ablegen. Bildquelle, Urheber und Nutzungsrecht dokumentieren. Nur zur Veröffentlichung bestimmte Inhalte einchecken.
+4. Ziele, Vorgehen, Ergebnisse und Quellen ergänzen. Erwartete Ergebnisse ausdrücklich als solche benennen. Nicht belegte Angaben weglassen; Abschluss nicht allein aus einer vergangenen Laufzeit ableiten.
 5. `quarto preview` ausführen. Die Projektkarte erscheint automatisch auf der Projektübersicht; Navigation nicht manuell erweitern.
 6. Vor dem Pull Request `quarto render` und `python scripts/check_site.py` ausführen.
 

@@ -2,10 +2,9 @@
 title: "LehB:KlimafitDemo2+1"
 description: "Klimafitte und sozialverträgliche Bestandssanierung in der Wohnungsgemeinnützigkeit."
 categories: ["Sanierung"]
-image: "/assets/projects/folie-26.jpg"
-image-alt: "Abbildung aus dem Projektposter LehB:KlimafitDemo2+1"
-project-status: "TODO – aktuellen Status bestätigen"
-source-slides: "26"
+image: "/assets/projects/lehb-demo.jpg"
+image-alt: "LehB:KlimafitDemo2+1 – Projektübersicht"
+project-status: null
 ---
 
 ## Worum geht es?
@@ -13,30 +12,18 @@ source-slides: "26"
 Drei Demonstrationsobjekte stehen im Mittelpunkt: Rugierstraße mit Monitoring zum sommerlichen Komfort, Degengasse mit stufenweisem Sanierungsplan und Friedrich-Kaiser-Gasse mit Low-Tech-Maßnahmen.
 
 ::: {.project-figure}
-![Abbildung aus dem bereitgestellten Projektposter, Folie 26. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-26.jpg)
+![LehB:KlimafitDemo2+1](/assets/projects/lehb-demo.jpg)
 :::
 
-## Vorgehen und dokumentierter Stand
+## Forschung und Anwendung
 
 Erwartet werden prototypische Sanierungslösungen, Monitoring-Erkenntnisse und übertragbare Maßnahmen. Bewohner:innen und städtische Stakeholder werden einbezogen.
 
 ## Projektdaten
 
-| Feld | Angabe aus dem Poster |
+| Feld | Angabe |
 |:--|:--|
 | Laufzeit | 09/2024 – 08/2027 (36 Monate) |
-| Projektstatus | {{< meta project-status >}} |
-| Kontakt | Manfred Schindler |
-| Beteiligte Organisationseinheiten | KFCBD, KFRES |
 
-::: {.callout-note}
-Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
-:::
-
-## Quelle
-
-::: {.source-note}
-„Projektdarstellung_RES+AuR_velo.pptx“, Folie 26. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
-:::
 
 [← Alle Forschungsprojekte](../projects.qmd)

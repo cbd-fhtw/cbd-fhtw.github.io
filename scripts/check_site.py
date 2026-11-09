@@ -5,7 +5,7 @@ from urllib.parse import urlsplit, unquote
 import sys
 
 ROOT = Path(__file__).resolve().parents[1] / '_site'
-BASE = '/cbd-fhtw/'
+BASE = '/'
 
 class Document(HTMLParser):
     def __init__(self, text):
