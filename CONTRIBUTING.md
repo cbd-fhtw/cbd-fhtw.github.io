@@ -17,6 +17,8 @@ Die Website wird auf Deutsch gepflegt. Eine QMD-Datei enthält YAML-Metadaten un
 
 ## Qualität vor Veröffentlichung
 
+Projektbudgets und Fördergeber werden auf dieser Website nicht veröffentlicht. Das gilt auch für Förderprogramme, Förderlogos, eingebettete Screenshots, Bildunterschriften und Metadaten. Interne Zuständigkeiten und Kontaktpersonen aus Arbeitsunterlagen weglassen.
+
 Quellen und Aktualität prüfen, Bildrechte dokumentieren und vertrauliche Inhalte vermeiden. Interne Links, Mobilansicht und Lesbarkeit kontrollieren. `_site/`, `.quarto/` und `.local-sources/` bleiben lokal. Keine Secrets oder Zugangsdaten ablegen.
 
 ## Späterer grafischer Editor

@@ -17,9 +17,15 @@ Klimafitte Gebäude und Quartiere verbinden geringe Treibhausgasemissionen mit h
 - **Lebenszyklus und Kreislaufwirtschaft:** Materialien und technische Systeme über ihre Nutzungsdauer betrachten.
 - **Lehre und Wissenstransfer:** Methoden erlebbar machen und Erkenntnisse in die Praxis tragen.
 
-## Unsere Arbeitsweisen
+## Einordnung an der FH Technikum Wien
 
-Mit den Schwestergruppen **Renewable Energy Technologies** und **Resilient Energy Systems** bildet CBD den Forschungsschwerpunkt **Renewable Energy Systems**.
+Der Forschungsschwerpunkt **Renewable Energy Systems** am Department Industrial Engineering umfasst die Kompetenzfelder:
+
+- **Climate-fit Buildings and Districts (CBD)**
+- **Renewable Energy Technologies**
+- **Resilient Energy Systems**
+
+## Unsere Arbeitsweisen
 
 Wir verbinden Modellierung und Simulation mit Monitoring, Datenanalyse und experimentellen Untersuchungen. Lebenszyklusbewertung und Beteiligungsprozesse ergänzen den technischen Blick auf Gebäude und Quartiere.
 
@@ -30,5 +36,5 @@ Wir verbinden Modellierung und Simulation mit Monitoring, Datenanalyse und exper
 ## Kontakt
 
 **David Sengl**\
-Forschungsgruppenleiter Climate-fit Buildings and Districts\
+Leitung des Kompetenzfelds Climate-fit Buildings and Districts\
 FH Technikum Wien

@@ -5,25 +5,48 @@ categories: ["Sanierung"]
 image: "/assets/projects/fluccosan.jpg"
 image-alt: "FluccoSAN – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Kreislauffähige Energieflexibilität für resiliente, klimaneutrale Sanierungen"
 ---
 
-## Worum geht es?
+## Ziele
 
-Das Projekt verbindet dynamische Sanierungsstrategien mit Komfort, Kosten und Netzdienlichkeit. Gebäudetypologien, Simulationen, experimentelle Tests und Verhaltensmodelle fließen in eine ganzheitliche Bewertungsmatrix ein.
+FluccoSAN entwickelt dynamische Sanierungsstrategien, die Energieflexibilität, thermischen Komfort sowie Kosten und Nutzen gemeinsam berücksichtigen. Experimentelle Tests untersuchen Behaglichkeit und Akzeptanz und unterstützen die Ableitung netzdienlicher Betriebsregeln.
 
-::: {.project-figure}
-![FluccoSAN](/assets/projects/fluccosan.jpg)
+Ein ganzheitliches Bewertungskonzept verbindet Klimaneutralität, Resilienz, Kreislauffähigkeit, Energieflexibilität und Treibhausgaswirkungen.
+
+## Vorgehen
+
+1. Sanierungsfälle auswählen und ein Bewertungsmodell mit zugehöriger Matrix entwickeln.
+2. Den Gebäudebestand typologisieren und Flexibilitätspotenziale erheben.
+3. Die Sanierungsfälle modellieren und dynamisch simulieren.
+4. Versuchsdesigns für die Prüfbox entwickeln und durch Tests in realer Umgebung ergänzen.
+5. Verhaltensmodelle und Motivationsstrategien ermitteln und gruppieren.
+6. Die untersuchten Lösungen bewerten und in einen Sanierungsleitfaden überführen.
+
+## Experimentelle Untersuchung und Bewertung
+
+Tests in realer Umgebung dienen dazu, Verhaltensmodelle zu ermitteln und Sanierungsstrategien zu erproben und umzusetzen. Die ganzheitliche Bewertung einer Pareto-Matrix macht Zielkonflikte zwischen unterschiedlichen Lösungsvarianten sichtbar.
+
+Die Verbindung von Simulation, Prüfbox und Realtests soll technische Flexibilität und die Anforderungen der Nutzer:innen zusammenführen.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![Experimentelle Untersuchung an einem Fenster: Die Versuche verbinden reale Umgebungsbedingungen mit Fragen des thermischen Komforts.](/assets/projects/fluccosan-01.png){fig-alt="Experimentelle Untersuchung an einem Fenster: Die Versuche verbinden reale Umgebungsbedingungen mit Fragen des thermischen Komforts."}
+
+![Aufbau der Prüfbox mit Servicebereichen, steuerbaren Außenhüllen und Durchführungen für das Versuchsprogramm.](/assets/projects/fluccosan-02.png){fig-alt="Aufbau der Prüfbox mit Servicebereichen, steuerbaren Außenhüllen und Durchführungen für das Versuchsprogramm."}
+
+![Qualitative Gegenüberstellung von Aufwand und Nutzen verschiedener Maßnahmen. Lastmanagement, Dämmung, Speicher, Verschattung und erneuerbare Versorgung werden in einer gemeinsamen Matrix eingeordnet; die Grafik zeigt keine allgemeingültigen Zahlenwerte.](/assets/projects/fluccosan-03.png){fig-alt="Qualitative Gegenüberstellung von Aufwand und Nutzen verschiedener Maßnahmen. Lastmanagement, Dämmung, Speicher, Verschattung und erneuerbare Versorgung werden in einer gemeinsamen Matrix eingeordnet; die Grafik zeigt keine allgemeingültigen Zahlenwerte."}
+
 :::
-
-## Forschung und Anwendung
-
-Tests in realer Umgebung und Verhaltensmodelle unterstützen die Bewertung von Sanierungsstrategien. Ein Sanierungsleitfaden ist als Arbeitsschritt vorgesehen.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Konsortium / Koordination | FH Technikum Wien, IBO, Renowave, Kleboth & Dollnig, Käferhaus |
 | Laufzeit | 36 Monate |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

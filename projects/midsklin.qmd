@@ -5,25 +5,45 @@ categories: ["Sanierung"]
 image: "/assets/projects/midsklin.jpg"
 image-alt: "MiDSKliN – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Minimalinvasive dynamische Sanierung mit Berücksichtigung der Klimawandelanpassung und einer Integralen Minimierung des CO2-Ausstoßes und Netzdienlichkeit bis 2040"
 ---
 
-## Worum geht es?
+## Motivation und Ziel
 
-Repräsentative Gebäudetypen, thermischer Komfort und Nutzer:innenbegleitung bilden die Grundlage für Dekarbonisierungspakete. Dynamische Simulationen und Lebenszyklusanalysen unterstützen die Optimierung.
+MiDSKliN untersucht minimalinvasive dynamische Sanierungen, die Klimawandelanpassung, CO₂-Reduktion und Netzdienlichkeit bis 2040 verbinden. Zunehmende Hitzebelastung in Städten macht dabei den thermischen Komfort zu einem zentralen Kriterium.
 
-::: {.project-figure}
-![MiDSKliN](/assets/projects/midsklin.jpg)
+Das Projekt verfolgt das Ziel, mit ausgewählten Maßnahmen und Technologien **rund 80 % der CO₂-Emissionen bei etwa 20 % der Kosten einer Vollsanierung** einzusparen. Diese Größen beschreiben das Forschungsziel.
+
+## Gebäudetypen und Skalierung
+
+Eine Typologisierung und Bedarfserhebung identifiziert Skalierungspotenziale und repräsentative Gebäudetypen. Darauf aufbauend werden passende Dekarbonisierungspakete entwickelt.
+
+## Entwicklung und Bewertung
+
+- Die Bandbreite thermischen Komforts und geschlechtsspezifische Unterschiede im Komfortempfinden analysieren.
+- Nutzer:innen während der Entwicklung begleiten.
+- Dekarbonisierungspakete mithilfe dynamischer Simulationen entwickeln.
+- Komfort- und CO₂-optimierte Heizlastberechnungen sowie energieoptimierte Kühlstrategien untersuchen.
+- Systeme optimieren und ihre zukünftige Netzintegration berücksichtigen.
+- Die optimierten Pakete über den Lebenszyklus bewerten.
+- Maßnahmen implementieren und durch Monitoring untersuchen.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![Mehrfamilienhausbestand nach Bauperioden: Balken zeigen Energiebezugsflächen, die gestrichelte Kurve den spezifischen Energieverbrauch. Hervorgehobene Bereiche unterstützen die Auswahl relevanter Gebäudetypen.](/assets/projects/midsklin-01.png){fig-alt="Mehrfamilienhausbestand nach Bauperioden: Balken zeigen Energiebezugsflächen, die gestrichelte Kurve den spezifischen Energieverbrauch. Hervorgehobene Bereiche unterstützen die Auswahl relevanter Gebäudetypen."}
+
+![Die Forschung verbindet Nutzer:innen, Komfort, technische Lösungen und Umsetzung in einem gemeinsamen Entwicklungsprozess.](/assets/projects/midsklin-02.png){fig-alt="Die Forschung verbindet Nutzer:innen, Komfort, technische Lösungen und Umsetzung in einem gemeinsamen Entwicklungsprozess."}
+
 :::
-
-## Forschung und Anwendung
-
-Umsetzung und Monitoring sollen die entwickelten Maßnahmen untersuchen. Im Mittelpunkt stehen wirksame Dekarbonisierungspakete mit möglichst geringem baulichem Eingriff.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Konsortium / Koordination | RENOWAVE.AT eG. |
 | Laufzeit | Januar 2026 bis August 2028, 31 Monate |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

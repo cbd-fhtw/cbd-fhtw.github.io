@@ -5,25 +5,43 @@ categories: ["Sanierung"]
 image: "/assets/projects/cobee.jpg"
 image-alt: "Cobee – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "kollaborativ zur Energiewende"
 ---
 
-## Worum geht es?
+## Ziel und Zielgruppen
 
-An einer Wiener Wohnhausanlage werden Erfolgsfaktoren für Planungs- und Entscheidungsprozesse zur Dekarbonisierung untersucht. Im Mittelpunkt stehen Informationsbedarf und Beteiligung von Bewohner:innen, Eigentümer:innen und Hausverwaltungen.
+Cobee entwickelt einen digitalen Wegbegleiter für den gemeinsamen Umstieg auf erneuerbare Energien in mehrgeschoßigen Wohngebäuden. Er richtet sich an Bewohner:innen, Gebäudeeigentümer:innen, Hausverwaltungen und Bauträger, die Entscheidungen zur Dekarbonisierung gemeinsam vorbereiten und treffen müssen.
 
-::: {.project-figure}
-![Cobee](/assets/projects/cobee.jpg)
+## Pilotprojekt und Vorgehen
+
+Eine exemplarische Wiener Wohnhausanlage dient dazu, Erfolgsfaktoren für Planungs- und Entscheidungsprozesse zu untersuchen. Im Mittelpunkt stehen die Errichtung einer Photovoltaikanlage und die Umstellung der Wärmeversorgung von Gas auf erneuerbare Wärme.
+
+Die Erfahrungen bilden die Grundlage für die digitale Prozessbegleitung. Untersucht werden insbesondere drei Fragen:
+
+- Welche Informationen benötigen Wohnungseigentümer:innen zu welchem Zeitpunkt der Planung?
+- Welche Form der Informationsvermittlung eignet sich für die jeweiligen Zielgruppen?
+- Wie lässt sich der Informations- und Entscheidungsprozess gestalten?
+
+## Verbindung zur Lehre
+
+Das Fallbeispiel wurde in die Lehre eingebunden und durch eine Masterarbeit begleitet. Eine Mitgründerin des Start-ups hat an der FH Technikum Wien studiert.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![Cobee begleitet die Energiewende in Wohnhausanlagen mit einem digitalen Angebot für den gemeinsamen Entscheidungsprozess.](/assets/projects/cobee-01.png){fig-alt="Cobee begleitet die Energiewende in Wohnhausanlagen mit einem digitalen Angebot für den gemeinsamen Entscheidungsprozess."}
+
+![Begrünte Balkone und Fassaden eines Wohngebäudes veranschaulichen den Gebäudekontext der gemeinsamen Energiewende.](/assets/projects/cobee-02.png){fig-alt="Begrünte Balkone und Fassaden eines Wohngebäudes veranschaulichen den Gebäudekontext der gemeinsamen Energiewende."}
+
 :::
-
-## Forschung und Anwendung
-
-Die Erfahrungen aus dem Pilotprojekt bilden die Grundlage für einen digitalen Wegbegleiter. Das Fallbeispiel wurde in die Lehre und eine Masterarbeit eingebunden.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Konsortium / Koordination | cobee solutions GmbH |
 | Laufzeit | 10/2023- 12/2025 |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

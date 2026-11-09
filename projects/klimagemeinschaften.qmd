@@ -5,25 +5,45 @@ categories: ["Quartiere"]
 image: "/assets/projects/klimagemeinschaften.jpg"
 image-alt: "Klimagemeinschaften – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Von der Energie- zur Klimagemeinschaft"
 ---
 
-## Worum geht es?
+## Von der Energie- zur Klimagemeinschaft
 
-Quartierstypologien werden mit erprobten Maßnahmen zu Umwelt, Energie, Lebensqualität, Mobilität und Wirtschaft verknüpft. Ein Assistenzsystem soll passende Maßnahmen auswählen und Kosten sowie Nutzen abschätzen.
+Klimagemeinschaften unterstützt kleinere und mittlere Gemeinden sowie städtische Quartiere mit ganzheitlichen, gebäudeübergreifenden Sanierungslösungen. Im Mittelpunkt stehen Nachbarschaften, die Ressourcen bündeln und Maßnahmen gemeinsam umsetzen.
 
-::: {.project-figure}
-![Klimagemeinschaften](/assets/projects/klimagemeinschaften.jpg)
+## Quartierstypologien und Maßnahmen
+
+- Quartiere nach städtebaulichen, baulichen, energetischen, ökologischen und sozialen Kriterien typologisieren.
+- Quartierstypen im Gemeindegebiet identifizieren, unter anderem mit Unterstützung künstlicher Intelligenz.
+- Erprobte Maßnahmen aus Beispielquartieren in einem Werkzeugkoffer beschreiben.
+- Maßnahmen nach Bedarf und Umsetzbarkeit den Quartierstypologien zuordnen.
+- Ein Assistenzsystem zur Auswahl geeigneter Maßnahmen und zur überschlägigen Berechnung von Kosten und Nutzen entwickeln.
+
+Der Maßnahmenkatalog umfasst Umwelt, Energie, Lebensqualität, Mobilität und Wirtschaft. Dazu gehören Wärmeversorgung, Photovoltaik, Energiegemeinschaften, thermische Sanierung, Begrünung und Entsiegelung ebenso wie Nachbarschaft, gemeinsames Nutzen und die Weiterentwicklung von Gebäuden.
+
+## Assistenzsystem und Bewertung
+
+Das Assistenzsystem verortet Quartierstypologien in Gemeinden und verknüpft sie mit dem Werkzeugkoffer. Automatisierte Lebenszyklusanalysen und Lebenszykluskostenrechnungen ergänzen die Auswahl um eine ökologische und wirtschaftliche Bewertung.
+
+Für das letzte Projektjahr sind Tests des Assistenzsystems an Beispielquartieren vorgesehen.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![Klimagemeinschaften verbinden Menschen und Maßnahmen auf der Ebene von Nachbarschaften und Quartieren.](/assets/projects/klimagemeinschaften-01.png){fig-alt="Klimagemeinschaften verbinden Menschen und Maßnahmen auf der Ebene von Nachbarschaften und Quartieren."}
+
+![Ablauf des Assistenzsystems: Eingaben zu Lage, Bebauung und Gebäudetyp werden mit Quartierstypologien und einem Werkzeugkasten mit 100 Maßnahmen verknüpft. Daraus entsteht eine passende Maßnahmengruppe.](/assets/projects/klimagemeinschaften-02.png){fig-alt="Ablauf des Assistenzsystems: Eingaben zu Lage, Bebauung und Gebäudetyp werden mit Quartierstypologien und einem Werkzeugkasten mit 100 Maßnahmen verknüpft. Daraus entsteht eine passende Maßnahmengruppe."}
+
 :::
-
-## Forschung und Anwendung
-
-Die Entwicklung verbindet das Assistenzsystem mit automatisierten ökologischen und wirtschaftlichen Bewertungen. Tests an Beispielquartieren sind für das letzte Projektjahr vorgesehen.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
-| Laufzeit | 48 Monate (01.09.2023 – 30.08.2027) |
-
+| Konsortium / Koordination | FH Technikum Wien, IBO, Wohnbund, renowave, Kleboth & Dollnig, SIMA |
+| Laufzeit | 01.09.2023 – 30.08.2027 (48 Monate) |
 
 [← Alle Forschungsprojekte](../projects.qmd)

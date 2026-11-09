@@ -23,9 +23,7 @@ Belegte Ergebnisse von erwarteten Ergebnissen trennen.
 
 - **Projektstatus:** {{< meta project-status >}}
 - **Laufzeit:**
-- **Beteiligte Organisationseinheiten:**
-- **Partner und Förderung:**
-- **Kontakt:**
+- **Projektpartner:**
 
 ## Quellen und Bildnachweis
 

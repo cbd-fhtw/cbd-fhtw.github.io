@@ -5,25 +5,57 @@ categories: ["Lehre & Transfer"]
 image: "/assets/projects/klimsta.jpg"
 image-alt: "KlimSta – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Klimafitte Stadtsanierung in der Lehre"
 ---
 
-## Worum geht es?
+## Klimafitte Stadtsanierung in der Lehre
 
-Studierende analysieren und simulieren Bestandsquartiere als urbane Systeme. Das Kompetenzteam verbindet technische, räumliche, soziale und wirtschaftliche Perspektiven auf die Sanierung.
+Die Sanierung des urbanen Gebäudebestands verlangt Fachkräfte, die technische, räumliche, soziale und wirtschaftliche Fragen gemeinsam bearbeiten. KlimSta stärkt diese Schnittstellenkompetenzen durch praxisnahe und interdisziplinäre Lehre.
 
-::: {.project-figure}
-![KlimSta](/assets/projects/klimsta.jpg)
+Studierende lernen, Bestandsquartiere als komplexe urbane Systeme zu analysieren, zu simulieren und weiterzuentwickeln.
+
+## Lehrveranstaltungen und wissenschaftliche Ergebnisse
+
+Zu den Ergebnissen gehören **fünf wissenschaftliche Publikationen** und neue beziehungsweise weiterentwickelte Lehrveranstaltungen, darunter:
+
+- Quartiersbetrachtung.
+- Innovative Stadtentwicklung.
+- Klimafitte Gebäudekonzepte.
+- Advanced Modelling and Simulation.
+
+## Werkzeuge und Lernspiele
+
+### PEExcel
+
+PEExcel unterstützt die Modellierung, Simulation und Analyse klimaneutraler Quartiere. Betrieb, Alltagsmobilität und graue Energie werden gemeinsam betrachtet, um realitätsnahe Quartiersanalysen zu ermöglichen.
+
+### The Renovation Game
+
+Das Serious Boardgame bietet einen spielerischen Zugang zu Maßnahmen, Zielkonflikten und Entscheidungsprozessen bei der Sanierung urbaner Bestandsgebäude.
+
+### PassyBUIRD
+
+Das Lernspiel verbindet Gebäudephysik, Komfort, Energiebedarf, Photovoltaikerzeugung, Kosten und Demand-Side-Management in einer einfachen Spielmechanik.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![The Renovation Game: Spielplan und Maßnahmenkarten machen Sanierungsentscheidungen und ihre Wechselwirkungen gemeinsam diskutierbar.](/assets/projects/klimsta-01.png){fig-alt="The Renovation Game: Spielplan und Maßnahmenkarten machen Sanierungsentscheidungen und ihre Wechselwirkungen gemeinsam diskutierbar."}
+
+![PassyBUIRD verbindet eine spielerische Umgebung mit Kennwerten zu Energie, Emissionen, Kosten und Gebäudebetrieb.](/assets/projects/klimsta-02.png){fig-alt="PassyBUIRD verbindet eine spielerische Umgebung mit Kennwerten zu Energie, Emissionen, Kosten und Gebäudebetrieb."}
+
+![PEExcel stellt zeitliche Verläufe von Bedarf und Versorgung dar und macht unter anderem Speicherzustände und Wärmepumpenbetrieb sichtbar.](/assets/projects/klimsta-03.png){fig-alt="PEExcel stellt zeitliche Verläufe von Bedarf und Versorgung dar und macht unter anderem Speicherzustände und Wärmepumpenbetrieb sichtbar."}
+
+![Quartiersanalyse mit 84 Wohn- und Mischnutzungstypologien für City Energy Analyst. Die Darstellung verbindet Typologieentwicklung, Validierung, Sanierungspotenziale nach Alter und Kompaktheit sowie Szenarien für Heizbedarf, Primärenergie und Treibhausgasemissionen. Die dargestellte Fallanalyse zeigt, dass das ambitionierte Plusenergieziel auch mit zusätzlichen Maßnahmen nicht erreicht wird.](/assets/projects/klimsta-04.png){fig-alt="Quartiersanalyse mit 84 Wohn- und Mischnutzungstypologien für City Energy Analyst. Die Darstellung verbindet Typologieentwicklung, Validierung, Sanierungspotenziale nach Alter und Kompaktheit sowie Szenarien für Heizbedarf, Primärenergie und Treibhausgasemissionen. Die dargestellte Fallanalyse zeigt, dass das ambitionierte Plusenergieziel auch mit zusätzlichen Maßnahmen nicht erreicht wird."}
+
 :::
-
-## Forschung und Anwendung
-
-Weiterentwickelte Lehrveranstaltungen, PEExcel zur Quartiersanalyse und die Lernspiele „The Renovation Game“ und „PassyBUIRD“ machen die Forschung in der Lehre zugänglich.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
 | Laufzeit | 3/2024- 8/2026 |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

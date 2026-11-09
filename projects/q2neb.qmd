@@ -5,25 +5,46 @@ categories: ["Lehre & Transfer"]
 image: "/assets/projects/q2neb.jpg"
 image-alt: "Q2NEB – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Transformation von Quartieren nach Kriterien des New European Bauhaus"
 ---
 
-## Worum geht es?
+## Quartiere nach den Werten des New European Bauhaus entwickeln
 
-Das Qualifizierungsnetzwerk verbindet Nachhaltigkeit, Integration und Ästhetik. Workshops zu Bewertungstools, Quartiersexkursionen und ein NEBathon fördern die Zusammenarbeit über Disziplinen und Sektoren hinweg.
+Q2NEB ist ein Qualifizierungsnetzwerk für die disziplin- und sektorenübergreifende Zusammenarbeit in Projekten des New European Bauhaus. Es verbindet neues Wissen mit praxisbezogenen Übungen und der Entwicklung von Innovationskompetenzen in Unternehmen.
 
-::: {.project-figure}
-![Q2NEB](/assets/projects/q2neb.jpg)
+Die Werte **Nachhaltigkeit, Integration und Ästhetik** bilden die gemeinsame Grundlage.
+
+## Aufbau der Weiterbildung
+
+| Phase | Inhalte und Umfang |
+|:--|:--|
+| Grundlagen | Acht Onlineworkshops zu Nachhaltigkeit einschließlich Klima und Ökologie, Integration und Ästhetik. |
+| Spezialisierung | Je drei Onlineworkshops zu klimaaktiv-Gebäudebewertung, Eco2Soft und Plusenergiequartiers-Excel. |
+| Vertiefung | Exkursionen zu drei Quartieren und je zwei anschließende Onlineworkshops zur Bewertung. |
+| NEBathon | Gemeinsame Entwicklung eines NEB-Quartiers in zwei Onlineworkshops und einem Präsenztag. |
+
+Die Quartiersbewertung verwendet **NEB-Krits**, ein von IBRII entwickeltes System mit **37 Kriterien** zu den Werten des New European Bauhaus.
+
+## Ergebnisse und Transfer
+
+Die Grundlagenschulung und Spezialisierungen wurden abgeschlossen. Exkursionen und anschließende Bewertungen sind im Programm bis September 2026 vorgesehen. Die weitere Arbeit umfasst die Anpassung der Lehrmaterialien, die Veröffentlichung auf einer frei zugänglichen Lernplattform und die Entwicklung des NEBathons.
+
+Das Netzwerk stärkt fachübergreifendes Grundlagenwissen und Erfahrung in transdisziplinärer Projektarbeit. Ein frei zugänglicher Online-Kurs soll die Inhalte verbreiten. Weitere Ziele sind neue kooperative Angebote der teilnehmenden Unternehmen und die Weiterverwendung der Schulungsinhalte.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![Qualifizierungsweg von Q2NEB: Auf Grundlagen folgen Spezialisierung, Exkursionen und Projektanalysen; der NEBathon führt die Inhalte in einer gemeinsamen Quartiersentwicklung zusammen.](/assets/projects/q2neb-01.png){fig-alt="Qualifizierungsweg von Q2NEB: Auf Grundlagen folgen Spezialisierung, Exkursionen und Projektanalysen; der NEBathon führt die Inhalte in einer gemeinsamen Quartiersentwicklung zusammen."}
+
 :::
-
-## Forschung und Anwendung
-
-Grundlagen- und Spezialisierungsschulungen vermitteln die gemeinsame Methodenbasis. Weitere Lehrmaterialien und ein frei zugänglicher Online-Kurs sind für den Wissenstransfer vorgesehen.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Konsortium / Koordination | FH Technikum Wien, UWK, IBRII, 13 Unternehmenspartner, (Tillner & Willinger, Adasca, TBWR als Drittleister) |
 | Laufzeit | 24 Monate: 4/2025 – 3/2027 |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

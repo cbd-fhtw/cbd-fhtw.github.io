@@ -5,25 +5,51 @@ categories: ["Quartiere"]
 image: "/assets/projects/simply-positive.jpg"
 image-alt: "SIMPLY POSITIVE – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Unterstützung innovativer und ambitionierter Städte und Gemeinden auf ihrem Weg zu „Positive Energy Districts“"
 ---
 
-## Worum geht es?
+## Städte und Gemeinden auf dem Weg zum Plusenergiequartier
 
-Ein gemeinsamer PED-Rahmen verbindet Energiebilanzen, Monitoring und Beteiligung. Vier Schwerpunktbezirke in Österreich, Rumänien, Italien und den Niederlanden untersuchen unter anderem Photovoltaik, Elektromobilität und Effizienz.
+SIMPLY POSITIVE entwickelt Strategien, Konzepte und Leitlinien, um die Beteiligung von Gemeinden und Städten an Positive Energy Districts (PEDs) und Positive Energy Neighborhoods (PENs) zu stärken.
 
-::: {.project-figure}
-![SIMPLY POSITIVE](/assets/projects/simply-positive.jpg)
+## Methodischer Rahmen
+
+Das gemeinsame PED-Rahmenkonzept verbindet vier Aufgaben:
+
+1. Bestehende kommunale Klima- und Umweltstrategien weiterentwickeln und die Nutzung sauberer Energie ausbauen.
+2. Ein standardisiertes, praxistaugliches Verfahren zur Energiebilanzierung auf Grundlage verfügbarer Daten entwickeln.
+3. Ein Monitoring zur Erfassung, Bewertung und Überprüfung von Maßnahmen einrichten.
+4. Beteiligungsstrategien hinsichtlich Wirkung und Akzeptanz bewerten.
+
+## Erprobung in vier Ländern
+
+In Schwerpunktbezirken in **Österreich, Rumänien, Italien und den Niederlanden** wurden Strategien für die Energiewende entwickelt und erprobt. Die ausgewählten Handlungsfelder umfassten:
+
+- Den Ausbau von Photovoltaikanlagen.
+- Die Integration von Elektrofahrzeugen in Mobilitätskonzepte und ihre Nutzung als Energiespeicher.
+- Nutzungsmuster zur Steigerung der Energieeffizienz.
+- Gemeinsame Klima- und Energieaktionspläne.
+
+## Ergebnisse und Übertragbarkeit
+
+Ein gemeinsamer Definitionsrahmen für Plusenergiequartiere im Bestand unterstützt die Überwachung und Visualisierung der Ergebnisse. Die Methodik verbindet Systemgrenzen, Gewichtung und kontextabhängige Zielwerte.
+
+Beteiligungskonzepte fördern die aktive Mitwirkung der Interessengruppen und unterstützen die Übertragung auf weitere europäische Städte und Gemeinden.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![PED-Methodik in drei Schritten: Systemgrenzen festlegen, Energieflüsse gewichten und ein zum regionalen Kontext passendes Ziel bestimmen.](/assets/projects/simply-positive-01.png){fig-alt="PED-Methodik in drei Schritten: Systemgrenzen festlegen, Energieflüsse gewichten und ein zum regionalen Kontext passendes Ziel bestimmen."}
+
 :::
-
-## Forschung und Anwendung
-
-Erprobte Strategien, Methoden zur Überwachung und Visualisierung sowie Beteiligungskonzepte unterstützen die Übertragbarkeit auf weitere Städte und Gemeinden.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Koordinator | Sonnenplatz Großschönau GmbH |
 | Laufzeit | 01/ 2023 – 12/2024 |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

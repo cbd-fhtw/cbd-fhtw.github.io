@@ -5,25 +5,63 @@ categories: ["Quartiere"]
 image: "/assets/projects/zq3demo.jpg"
 image-alt: "ZQ3Demo – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Umsetzung von urbanen Zukunftsquartieren mit Akteursvernetzung und rechtlich-ökonomisch replizierbaren Lösungen"
 ---
 
-## Worum geht es?
+## Urbane Zukunftsquartiere umsetzen
 
-Demonstrationsquartiere verbinden technische Systemlösungen mit Monitoring, Nutzer:innenbedürfnissen und rechtlichökonomischen Rahmenbedingungen. Ziel ist die Übertragbarkeit von Plusenergiequartieren.
+ZQ3Demo verbindet die Umsetzung urbaner Plusenergiequartiere mit Akteursvernetzung und rechtlich sowie wirtschaftlich übertragbaren Lösungen. Reale Demonstrationsquartiere werden durch Monitoring und begleitende Forschung untersucht.
 
-::: {.project-figure}
-![ZQ3Demo](/assets/projects/zq3demo.jpg)
+Das Projekt berücksichtigt die Perspektiven von Planenden, Nutzenden und Umsetzenden: nachhaltige System-, Architektur- und Technologiekonzepte, hohe Lebensqualität bei niedrigen Kosten sowie geeignete rechtliche Rahmenbedingungen und Geschäftsmodelle.
+
+## Vier Ziele
+
+### Plusenergiequartiere sichtbar machen
+
+Demonstrationsquartiere dienen als Vorzeigemodelle. Begleitforschung und Monitoring erschließen Erkenntnisse für zukünftige Projekte.
+
+### Intelligente und effiziente Energielösungen entwickeln
+
+Systemlösungen sollen Energieverbrauch und CO₂-Emissionen reduzieren. Intelligente Steuerung, Eigenstromnutzung und kontinuierliche Betriebsoptimierung werden hinsichtlich ihres Beitrags zum Energiesystem und zu Klimazielen bewertet.
+
+### Akzeptanz und Komfort stärken
+
+Verständliche Informations- und Kommunikationsangebote unterstützen die Einbindung der Nutzer:innen. Komfort, Nutzungsverhalten und die Bereitschaft zur Beteiligung werden untersucht.
+
+### Verbreitung und Umsetzung erleichtern
+
+Erfolgsfaktoren und Hindernisse werden identifiziert, praxistaugliche Geschäftsmodelle entwickelt und der Austausch zwischen den Beteiligten gefördert.
+
+## Arbeitsschritte
+
+1. Technische Systemlösungen für energieflexible Plusenergiequartiere entwickeln.
+2. Lösungen realisieren, überwachen und optimieren.
+3. Bedürfnisse, Erwartungen und Akzeptanz der Nutzer:innen erheben.
+4. Rechtliche und wirtschaftliche Rahmenbedingungen und Spielräume untersuchen.
+5. Erkenntnisse ableiten und zusammenführen.
+
+## Auswertung und Weiterführung
+
+Die Abschlussarbeiten umfassen die Auswertung gesammelter Daten, das Aufzeigen von Verbesserungspotenzialen, Berichterstattung und Publikationen. Ergebnisse fließen in Lehrveranstaltungen und Abschlussarbeiten ein und bilden eine Grundlage für mögliche Folgeprojekte.
+
+Die Erfahrungen und Rückmeldungen der beteiligten Bewohner:innen tragen dazu bei, praxisnahe Lösungen zu entwickeln. **Campo Breitenlee** ist eines der dargestellten Demonstrationsquartiere.
+
+## Einblicke in das Projekt
+
+::: {.project-gallery}
+
+![Nutzungsvielfalt im Demonstrationsquartier Campo Breitenlee: Die räumliche Darstellung verbindet Gebäude, Freiräume und gemeinschaftliche Nutzungen.](/assets/projects/zq3demo-01.png){fig-alt="Nutzungsvielfalt im Demonstrationsquartier Campo Breitenlee: Die räumliche Darstellung verbindet Gebäude, Freiräume und gemeinschaftliche Nutzungen."}
+
+![Partner des Demonstrationsvorhabens aus Forschung, Planung, Bau, Energie und Immobilienwirtschaft.](/assets/projects/zq3demo-02.png){fig-alt="Partner des Demonstrationsvorhabens aus Forschung, Planung, Bau, Energie und Immobilienwirtschaft."}
+
 :::
-
-## Forschung und Anwendung
-
-Datenauswertung, Berichterstattung und der Transfer in Lehre und Publikationen bündeln die Erkenntnisse aus den Demonstrationsquartieren.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Konsortialpartner | Urban Innovation Vienna |
 | Laufzeit | 09/2021 – 06/2026 |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)

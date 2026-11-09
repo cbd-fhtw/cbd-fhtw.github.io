@@ -5,25 +5,41 @@ categories: ["Energieflexibilität"]
 image: "/assets/cbd.png"
 image-alt: "Building4GridRes – Projektübersicht"
 project-status: null
+lightbox: true
+subtitle: "Netzdienliche Gebäude- und Quartiersflexibilität für resiliente urbane Stromnetze"
 ---
 
-## Worum geht es?
+## Ausgangslage und Ziele
 
-Bewertungsmodelle verbinden technische, systemische, sozialökologische und ökonomische Kriterien. Verteilnetzsimulationen, Speicherstrategien und Reinforcement Learning sollen helfen, Flexibilitätsentscheidungen unter Netzrestriktionen zu optimieren.
+Die schwankende Stromerzeugung aus Photovoltaik und Wind verändert die Belastung urbaner Stromnetze. In dicht bebauten Gebieten treffen lokale Engpässe, Gleichzeitigkeitseffekte und zunehmende Volatilität aufeinander. Building4GridRes entwickelt dafür ein Bewertungs- und Steuerungskonzept, das Flexibilität auf mehreren räumlichen Ebenen nutzbar macht.
 
-::: {.project-figure}
-![Building4GridRes](/assets/cbd.png)
-:::
+Das Konzept verbindet technische und systemische Kriterien mit sozialökologischen und wirtschaftlichen Anforderungen. Es soll zeigen, wann Verbrauch und Speicherung in Gebäuden und Quartieren das Netz tatsächlich entlasten.
 
-## Forschung und Anwendung
+## Arbeitspakete
 
-Erwartet werden ein multiskaliges Bewertungsmodell, Indikatoren und Leitlinien für resiliente urbane Netze.
+- Ein Bewertungssystem für Netzdienlichkeit entwickeln und die relevanten Kriterien festlegen.
+- Städtische Verteilnetze auf den Netzebenen NE4 bis NE7 unter realitätsnahen Szenarien modellieren und simulieren.
+- Verbrauchs- und Speicherstrategien auf Gebäude- und Quartiersebene analysieren.
+- Flexibilitätsentscheidungen mit Reinforcement Learning unter Berücksichtigung von Netzrestriktionen optimieren.
+- Unterschiedliche Szenarien in einer Laborumgebung testen.
+- Ökologische und soziale Auswirkungen der Flexibilitätsmaßnahmen bewerten.
+- Indikatoren und Leitlinien für resiliente urbane Netze ableiten.
+
+## Erwartete Ergebnisse
+
+Geplant ist ein multiskaliges Bewertungsmodell, das sozialökologische Parameter in technische Flexibilitätsbewertungen integriert. Systemische und netzspezifische Betrachtungen werden miteinander verbunden; datengetriebenes Steuerungsdesign ergänzt physikalisch-technische Netzmodelle.
+
+Neue Indikatoren sollen eine Wissensbasis für regulatorische und planerische Leitlinien schaffen. Der modulare Ansatz soll auf unterschiedliche urbane Dichten, Quartierstypen und Netzebenen übertragbar sein.
+
+## Umsetzung und Lehre
+
+Netzlastprofile und Bewertungskriterien bilden die Grundlage für den Aufbau der Verteilnetzmodelle und der Laborumgebung. Bachelor- und Masterarbeiten im Bereich Renewable Energy Systems begleiten die Forschung.
 
 ## Projektdaten
 
 | Feld | Angabe |
 |:--|:--|
+| Konsortium / Koordination | FH Technikum Wien (Koord.), TU Wien, AEE Intec, Beyond Carbon Energy, Reisenbauer Solutions, IBO, NEO Messtechnik |
 | Laufzeit | 06/2026 – 05/2029 (36 Monate) |
-
 
 [← Alle Forschungsprojekte](../projects.qmd)
