@@ -1,0 +1,9 @@
+_site/
+.quarto/
+.local-sources/
+.DS_Store
+Thumbs.db
+*.log
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,29 @@
+---
+title: "TODO: Titel des Kurzbeispiels"
+description: "TODO: Fragestellung in ein bis zwei Sätzen"
+categories: ["TODO: Forschungsfeld"]
+image: /assets/cbd.png
+image-alt: "CBD-Teamsymbol als Platzhalter"
+project-status: "Entwurf"
+draft: true
+---
+
+## Fragestellung
+
+TODO: Was soll dieses Beispiel zeigen? Verknüpfe die passende Projektseite.
+
+## Daten und Voraussetzungen
+
+TODO: Datenquelle, Lizenz, Versionen, Einheiten und Annahmen nennen. Keine vertraulichen Daten einfügen.
+
+## Vorgehen
+
+TODO: Schritte und bei Bedarf ausführbaren Code dokumentieren.
+
+## Ergebnis und Grenzen
+
+TODO: Belegte Ergebnisse, Interpretation und Unsicherheiten unterscheiden.
+
+## Quellen
+
+TODO: Nachprüfbare Quellen und Bildnachweise ergänzen.

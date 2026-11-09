@@ -1,0 +1,15 @@
+---
+title: Kurzbeispiele
+description: "Raum für nachvollziehbare Methoden und kleine Anwendungen aus der Forschung."
+toc: false
+---
+
+## Methoden nachvollziehbar machen
+
+Hier entsteht eine Sammlung kompakter Beispiele: eine Fragestellung, ein reproduzierbarer Weg und ein klar eingeordnetes Ergebnis.
+
+**Noch sind keine fachlich geprüften Kurzbeispiele veröffentlicht.** Die Vorlage in `examples/_template.qmd` bereitet die gemeinsame Beitragserstellung vor.
+
+Mögliche Beiträge können an die dokumentierten Arbeiten anknüpfen: dynamische Gebäudemodelle, Quartiersbewertung oder Auswertung von Monitoringdaten. Diese Themen sind Vorschläge für künftige Beiträge, keine vorliegenden Ergebnisse.
+
+[Die dazugehörigen Forschungsprojekte ansehen →](projects.qmd)

@@ -1,0 +1,42 @@
+---
+title: "Cobee"
+description: "Ein digitaler Wegbegleiter für den gemeinsamen Umstieg auf erneuerbare Energie in Wohngebäuden."
+categories: ["Sanierung"]
+image: "/assets/projects/folie-6.jpg"
+image-alt: "Abbildung aus dem Projektposter Cobee"
+project-status: "TODO – aktuellen Status bestätigen"
+source-slides: "6"
+---
+
+## Worum geht es?
+
+An einer Wiener Wohnhausanlage werden Erfolgsfaktoren für Planungs- und Entscheidungsprozesse zur Dekarbonisierung untersucht. Im Mittelpunkt stehen Informationsbedarf und Beteiligung von Bewohner:innen, Eigentümer:innen und Hausverwaltungen.
+
+::: {.project-figure}
+![Abbildung aus dem bereitgestellten Projektposter, Folie 6. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-6.jpg)
+:::
+
+## Vorgehen und dokumentierter Stand
+
+Die Erfahrungen aus dem Pilotprojekt bilden die Grundlage für einen digitalen Wegbegleiter. Das Fallbeispiel wurde in die Lehre und eine Masterarbeit eingebunden.
+
+## Projektdaten
+
+| Feld | Angabe aus dem Poster |
+|:--|:--|
+| Laufzeit | 10/2023- 12/2025 |
+| Projektstatus | {{< meta project-status >}} |
+| Kontakt | Jens Leibold |
+| Beteiligte Organisationseinheiten | Climate-fit Buildings and Districts (Zuordnung im Feld F&E-Schwerpunkt) |
+
+::: {.callout-note}
+Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
+:::
+
+## Quelle
+
+::: {.source-note}
+„Projektdarstellung_RES+AuR_velo.pptx“, Folie 6. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
+:::
+
+[← Alle Forschungsprojekte](../projects.qmd)

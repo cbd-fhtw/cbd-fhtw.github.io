@@ -1,0 +1,42 @@
+---
+title: "IEA Cities TCP Task 4"
+description: "Methoden und Rahmenbedingungen für klimaneutrale Quartiere."
+categories: ["Quartiere"]
+image: "/assets/projects/folie-19.jpg"
+image-alt: "Abbildung aus dem Projektposter IEA Cities TCP Task 4"
+project-status: "TODO – aktuellen Status bestätigen"
+source-slides: "19"
+---
+
+## Worum geht es?
+
+Der Task untersucht offene städtische Daten und Interoperabilität, Beteiligungsstrategien, Governance und Methoden zur Bewertung von Klimaneutralität. Werkzeuge und Erfahrungen sollen für konkrete Planungsfälle bewertet und angepasst werden.
+
+::: {.project-figure}
+![Abbildung aus dem bereitgestellten Projektposter, Folie 19. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-19.jpg)
+:::
+
+## Vorgehen und dokumentierter Stand
+
+Validierte Methoden sollen über Berichte, Workshops und weitere Medien verbreitet werden; das Poster beschreibt diese als erwartete Ergebnisse.
+
+## Projektdaten
+
+| Feld | Angabe aus dem Poster |
+|:--|:--|
+| Laufzeit | 01/2026 - 09/2029 |
+| Projektstatus | {{< meta project-status >}} |
+| Kontakt | Dr.techn. Karthik Bhat, M.Sc. |
+| Beteiligte Organisationseinheiten | Climate-fit Buildings and Districts (Zuordnung im Feld F&E-Schwerpunkt) |
+
+::: {.callout-note}
+Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
+:::
+
+## Quelle
+
+::: {.source-note}
+„Projektdarstellung_RES+AuR_velo.pptx“, Folie 19. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
+:::
+
+[← Alle Forschungsprojekte](../projects.qmd)

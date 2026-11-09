@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+$primary: #17685d;
+$body-color: #203b3d;
+$body-bg: #fbfcfa;
+$font-family-sans-serif: "Segoe UI", system-ui, sans-serif;
+$headings-font-weight: 650;
+$navbar-bg: #fbfcfa;
+$link-color: #12695e;
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #d9e3dd; padding-block: .9rem; }
+.home #title-block-header { display: none; }
+.navbar-brand { font-weight: 800; letter-spacing: .09em; }
+.navbar-logo { max-height: 38px; }
+h1 { letter-spacing: -.035em; }
+h2 { margin-top: 2.4rem; border-bottom: 1px solid #d7e2dc; padding-bottom: .6rem; }
+p { line-height: 1.75; }
+.hero { display: grid; grid-template-columns: 1.3fr 1fr; gap: 3rem; align-items: center; padding: 3rem 0 2rem; }
+.hero h1 { font-size: clamp(2.8rem, 5vw, 4.8rem); line-height: 1.05; margin: .7rem 0 1.5rem; }
+.hero .lead { font-size: 1.15rem; max-width: 42rem; }
+.eyebrow { color: #486a61; text-transform: uppercase; letter-spacing: .15em; font-size: .78rem; font-weight: 700; }
+.hero img { width: 100%; border-radius: 2px; }
+.hero figure { margin: 0; }
+.hero figcaption { font-size: .75rem; }
+.btn { border-radius: 3px; padding: .65rem 1rem; font-weight: 600; }
+.topic-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-block: 2rem; }
+.topic-grid h3 { font-size: 1.25rem; }
+.topic-grid > div { border-top: 3px solid #dbb45d; padding-top: 1rem; }
+.section-note { background: #edf3ee; padding: 1.3rem 1.6rem; border-left: 3px solid #17685d; margin-block: 2rem; }
+.quarto-grid-item { border: 1px solid #dce5de; border-radius: 4px; background: white; box-shadow: none; }
+.quarto-grid-item:hover { border-color: #17685d; }
+.quarto-grid-item .listing-title { font-size: 1.2rem; }
+.quarto-grid-item img.thumbnail-image { object-fit: contain !important; background: #f0f4f0; padding: .7rem; }
+.quarto-grid-item .listing-description { font-size: .94rem; }
+.quarto-grid-item .listing-categories .listing-category { color: #345b51; border-color: #b5cbbd; }
+.project-figure img { max-height: 380px; width: auto; object-fit: contain; }
+.source-note { color: #526560; font-size: .9rem; }
+footer { border-top: 1px solid #d9e3dd; }
+@media(max-width: 767px) { .hero { grid-template-columns: 1fr; gap: 1rem; padding-top: 1rem; } .topic-grid { grid-template-columns: 1fr; gap: .5rem; } .hero h1 { font-size: 2.9rem; } }

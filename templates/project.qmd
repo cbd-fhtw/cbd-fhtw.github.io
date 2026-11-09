@@ -1,0 +1,34 @@
+---
+title: "TODO: Projektname"
+description: "TODO: Kurze verständliche Projektbeschreibung"
+categories: [Quartiere]
+image: /assets/cbd.png
+image-alt: "CBD-Teamsymbol als Platzhalter"
+project-status: "TODO – aktuellen Status bestätigen"
+---
+
+## Worum geht es?
+
+TODO: Ausgangslage und Ziel, durch Quellen belegt.
+
+## Vorgehen
+
+TODO: Methoden und Arbeitsschritte.
+
+## Ergebnisse und Stand
+
+TODO: Belegte Ergebnisse von erwarteten Ergebnissen trennen.
+
+## Projektdaten
+
+- **Projektstatus:** {{< meta project-status >}}
+- **Laufzeit:** TODO
+- **Beteiligte Organisationseinheiten:** TODO
+- **Partner und Förderung:** TODO
+- **Kontakt:** TODO
+
+## Quellen und Bildnachweis
+
+TODO: Dokument/Folie, geprüfte Links, Urheber und Nutzungsrecht.
+
+[← Alle Forschungsprojekte](../projects.qmd)

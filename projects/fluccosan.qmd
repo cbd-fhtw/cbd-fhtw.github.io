@@ -1,0 +1,42 @@
+---
+title: "FluccoSAN"
+description: "Kreislauffähige Energieflexibilität für resiliente, klimaneutrale Sanierungen."
+categories: ["Sanierung"]
+image: "/assets/projects/folie-12.jpg"
+image-alt: "Abbildung aus dem Projektposter FluccoSAN"
+project-status: "TODO – aktuellen Status bestätigen"
+source-slides: "12"
+---
+
+## Worum geht es?
+
+Das Projekt verbindet dynamische Sanierungsstrategien mit Komfort, Kosten und Netzdienlichkeit. Gebäudetypologien, Simulationen, experimentelle Tests und Verhaltensmodelle fließen in eine ganzheitliche Bewertungsmatrix ein.
+
+::: {.project-figure}
+![Abbildung aus dem bereitgestellten Projektposter, Folie 12. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-12.jpg)
+:::
+
+## Vorgehen und dokumentierter Stand
+
+Das Poster nennt laufende Tests in realer Umgebung und die Bewertung von Sanierungsstrategien. Ein Sanierungsleitfaden ist als Arbeitsschritt vorgesehen.
+
+## Projektdaten
+
+| Feld | Angabe aus dem Poster |
+|:--|:--|
+| Laufzeit | 36 Monate |
+| Projektstatus | {{< meta project-status >}} |
+| Kontakt | DI David Sengl, David.sengl@technikum-wien.at |
+| Beteiligte Organisationseinheiten | Climate-fit Buildings and Districts, Resilient Energy Systems |
+
+::: {.callout-note}
+Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
+:::
+
+## Quelle
+
+::: {.source-note}
+„Projektdarstellung_RES+AuR_velo.pptx“, Folie 12. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
+:::
+
+[← Alle Forschungsprojekte](../projects.qmd)

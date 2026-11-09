@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+    - "examples/*.qmd"
+    - "!examples/_template.qmd"
+    - "!templates/**"
+  resources:
+    - assets/
+lang: de
+website:
+  title: "CBD · Forschung"
+  site-url: https://cbd-fhtw.github.io/cbd-fhtw/
+  description: "Climate-fit Buildings and Districts – Forschung und Lehre für klimafitte Gebäude und Quartiere an der FH Technikum Wien."
+  favicon: assets/cbd.png
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    logo: assets/cbd.png
+    title: "CBD"
+    background: light
+    left:
+      - href: index.qmd
+        text: Start
+      - href: projects.qmd
+        text: Forschungsprojekte
+      - href: examples.qmd
+        text: Kurzbeispiele
+      - href: about.qmd
+        text: Über uns
+  page-footer:
+    left: "Climate-fit Buildings and Districts · FH Technikum Wien"
+    right: "Forschungsdokumentation · Prototyp"
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-title: Auf dieser Seite
+    link-external-newwindow: true
+    smooth-scroll: true
+    code-copy: true
+    pagetitle: "{{< meta title >}} | CBD"

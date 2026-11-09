@@ -1,0 +1,42 @@
+---
+title: "EnerFlexBuildings"
+description: "Gebäudespeichermassen für nutzer:innenorientierte Energieflexibilität aktivieren."
+categories: ["Energieflexibilität"]
+image: "/assets/projects/folie-10.jpg"
+image-alt: "Abbildung aus dem Projektposter EnerFlexBuildings"
+project-status: "TODO – aktuellen Status bestätigen"
+source-slides: "10"
+---
+
+## Worum geht es?
+
+Ein nachrüstbarer Mess- und Regelungskoffer, Monitoring und lernende Regelungsstrategien sollen Flexibilität in Neubau und Bestand erschließen. Komfortbedingungen und sozialwissenschaftliche Begleitforschung sind Teil der Untersuchung.
+
+::: {.project-figure}
+![Abbildung aus dem bereitgestellten Projektposter, Folie 10. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-10.jpg)
+:::
+
+## Vorgehen und dokumentierter Stand
+
+Geplant sind Tests an der FH Salzburg, Anwendungen in realen Gebäuden und Geschäftsmodelle für Energiedienstleister. Diese Punkte sind Projektziele, keine bereits belegten Wirkungen.
+
+## Projektdaten
+
+| Feld | Angabe aus dem Poster |
+|:--|:--|
+| Laufzeit | 04/2025 – 03/2030 (60 Monate) |
+| Projektstatus | {{< meta project-status >}} |
+| Kontakt | Thomas Zelger |
+| Beteiligte Organisationseinheiten | KFCBD, KFRES |
+
+::: {.callout-note}
+Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
+:::
+
+## Quelle
+
+::: {.source-note}
+„Projektdarstellung_RES+AuR_velo.pptx“, Folie 10. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
+:::
+
+[← Alle Forschungsprojekte](../projects.qmd)

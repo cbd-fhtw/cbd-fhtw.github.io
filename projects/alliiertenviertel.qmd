@@ -1,0 +1,28 @@
+---
+title: "Alliiertenviertel"
+description: "Dekarbonisierungsstudie zu einem klimaneutralen Bestandsquartier."
+categories: [Quartiere, Sanierung]
+image: /assets/cbd.png
+image-alt: "CBD-Teamsymbol; Projektbild noch offen"
+project-status: "TODO – aktuellen Status bestätigen"
+---
+
+## Worum geht es?
+
+Wie kann ein bestehendes Stadtviertel klimaneutral werden? Die Teamdarstellung nennt das Alliiertenviertel als Beispiel für die Untersuchung eines Maßnahmenmixes zur nachhaltigen Quartiersentwicklung. Dabei wird der Ausstieg aus Gas als Teil einer umfassenderen Transformation betrachtet.
+
+## Untersuchungsrahmen
+
+Die Darstellung verbindet Klimaneutralität auf Quartiersebene mit Energie, Treibhausgasemissionen und Mobilität. Welche konkreten Maßnahmen die Studie für das Alliiertenviertel bewertet, ist in der vorliegenden Teamdarstellung nicht ausgeführt.
+
+## Noch zu ergänzen
+
+- **TODO:** Laufzeit, Projektstatus, Auftraggeber und beteiligte Partner.
+- **TODO:** Methodik, Ergebnisse und freigegebener Download der Dekarbonisierungsstudie.
+- **TODO:** Projektspezifisches Bild und Bildnachweis. Das Kartensymbol ist das CBD-Teamsymbol.
+
+## Quelle
+
+Bereitgestellte Teamdarstellung `assets/klimsta.svg` und „Projektdarstellung_RES+AuR_velo.pptx“, Folie 2. Die dort erwähnte Studie ist nicht als eigenständige Datei beigefügt.
+
+[← Alle Forschungsprojekte](../projects.qmd)

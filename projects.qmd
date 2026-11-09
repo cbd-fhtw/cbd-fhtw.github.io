@@ -1,0 +1,21 @@
+---
+title: Forschungsprojekte
+description: "Projekte des Teams Climate-fit Buildings and Districts im Überblick."
+toc: false
+listing:
+  contents: projects/*.qmd
+  type: grid
+  grid-columns: 3
+  image-height: 180px
+  fields: [image, title, description, categories]
+  categories: true
+  filter-ui: true
+  sort: title
+  page-size: 24
+---
+
+Sanierung, Energieflexibilität, Quartiersentwicklung und Wissenstransfer: **21 Projektseiten** erschließen die bereitgestellten Unterlagen. Über die Kategorien und das Suchfeld lässt sich die Auswahl eingrenzen.
+
+::: {.source-note}
+Auswahl nach CBD-Teamzuordnung in den Projektpostern; ergänzt um Alliiertenviertel aus der Teamdarstellung. Die Seiten dokumentieren den Quellenstand, keine aktuelle Projektbestätigung.
+:::

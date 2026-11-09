@@ -1,0 +1,42 @@
+---
+title: "RENOWAVE.AT"
+description: "Innovationslabor für klimaneutrale Gebäude- und Quartierssanierungen."
+categories: ["Sanierung"]
+image: "/assets/projects/folie-30.jpg"
+image-alt: "Abbildung aus dem Projektposter RENOWAVE.AT"
+project-status: "TODO – aktuellen Status bestätigen"
+source-slides: "30"
+---
+
+## Worum geht es?
+
+Das Innovationslabor unterstützt Demonstrationsgebäude und -quartiere. Innovationsfelder umfassen Gebäudehülle, erneuerbare Versorgung, Beteiligung, Geschäftsmodelle, Planungsprozesse und Baukultur.
+
+::: {.project-figure}
+![Abbildung aus dem bereitgestellten Projektposter, Folie 30. TODO: Bildurheber und Nachnutzungsrechte ergänzen.](/assets/projects/folie-30.jpg)
+:::
+
+## Vorgehen und dokumentierter Stand
+
+Die FH Technikum Wien ist laut Poster als Genossenschafterin beteiligt. RENOWAVE.AT ist ein Innovationslabor und kein klassisches einzelnes Forschungsprojekt.
+
+## Projektdaten
+
+| Feld | Angabe aus dem Poster |
+|:--|:--|
+| Laufzeit | 11/2021 – 11/2026 |
+| Projektstatus | {{< meta project-status >}} |
+| Kontakt | Jens Leibold |
+| Beteiligte Organisationseinheiten | Climate-fit Buildings and Districts (Zuordnung im Feld F&E-Schwerpunkt) |
+
+::: {.callout-note}
+Die Angaben geben den Stand der bereitgestellten Unterlagen wieder. Eine vergangene Laufzeit allein belegt keinen Projektabschluss. TODO: Aktuellen Stand, vollständige Partnerliste und freigegebene Publikations- bzw. Ergebnislinks ergänzen.
+:::
+
+## Quelle
+
+::: {.source-note}
+„Projektdarstellung_RES+AuR_velo.pptx“, Folie 30. Redaktionelle Zusammenfassung für diesen Prototyp; Ziele und erwartete Ergebnisse sind keine nachgewiesenen Wirkungen.
+:::
+
+[← Alle Forschungsprojekte](../projects.qmd)

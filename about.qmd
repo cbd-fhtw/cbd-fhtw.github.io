@@ -1,0 +1,39 @@
+---
+title: Über uns
+description: "Climate-fit Buildings and Districts an der FH Technikum Wien."
+---
+
+## Climate-fit Buildings and Districts
+
+Das Kompetenzfeld **Climate-fit Buildings and Districts (CBD)** am Department Industrial Engineering der FH Technikum Wien verbindet Forschung und Lehre für klimafitte Gebäude und Quartiere.
+
+„Climate-fit“ heißt in unserer Teamdarstellung, nationale Klimaziele auf Gebäude und Nachbarschaften zu übertragen. Der klimaaktiv-Standard für klimaneutrale Quartiere macht Anforderungen an Energie, Treibhausgasemissionen und Mobilität messbar.
+
+## Gemeinsam forschen
+
+Mit den Schwestergruppen **Renewable Energy Technologies** und **Resilient Energy Systems** bildet CBD den Forschungsschwerpunkt **Renewable Energy Systems**. Die Teamdarstellung beschreibt folgende gemeinsame Arbeitsweisen:
+
+- **Bewerten:** Umweltwirkungen, Lebenszyklusanalysen und Technikfolgen.
+- **Beteiligen:** Nutzer:innen und Stakeholder einbinden, gemeinsam Lösungen und Geschäftsmodelle entwickeln.
+- **Planen und umsetzen:** Modellierung, Simulation, Monitoring und Optimierung.
+- **Prüfen und messen:** Datenanalyse, Interpretation, Roadmapping sowie Mess- und Prüfdienstleistungen.
+
+## Fachliche Entwicklung
+
+Die Strategieunterlagen 2025 nennen unter anderem die Kopplung von Gebäude- und Netzsimulation, Speicher und Netzdienlichkeit, schrittweise klimaneutrale Bestandssanierung sowie dynamische Lebenszyklusbewertung als Entwicklungsfelder. Diese Themen sind eine strategische Orientierung; daraus wird kein bereits abgeschlossener Kompetenzaufbau abgeleitet.
+
+## Forschung in der Lehre
+
+Projekte wie [KlimSta](projects/klimsta.qmd), [Q2NEB](projects/q2neb.qmd) und [Plus-Energie-Quartiere in der Lehre](projects/plusenergie-lehre.qmd) verbinden Methodenentwicklung mit Lehrmaterialien, Quartiersanalysen und Weiterbildung.
+
+## Kontakt und Quellen
+
+Die Teamdarstellung nennt **David Sengl** als Kontaktperson. Die Projektposter führen projektspezifische Ansprechpersonen auf den jeweiligen Seiten auf.
+
+**TODO:** Zentralen Teamkontakt, öffentliche Teamprofile und institutionelle Angaben zu Impressum und Datenschutz ergänzen.
+
+- [Originale Teamdarstellung (SVG)](assets/klimsta.svg) – bereitgestellte inhaltliche Grundlage, englischsprachig.
+- „Projektdarstellung_RES+AuR_velo.pptx“, insbesondere Folie 2.
+- „Strategieentwicklung 2025 CBD_Langfassung.pptx“, fachliche Entwicklungsfelder, insbesondere Folie 14.
+
+Die Originalpräsentationen werden nicht mit dieser Website veröffentlicht.
